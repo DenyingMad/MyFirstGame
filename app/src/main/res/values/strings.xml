@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstGame</string>
+    <string name="attack">Attack</string>
+    <string name="defend">Defend</string>
+</resources>
